@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "Name": "mohsin",
+            "Age": "22",
+            "Gender": "male",
+            "Disease": "Dengue",
+            "Sympts": [
+                "high_fever",
+                "red_spots_over_body",
+                "chills",
+                "fatigue",
+                "headache",
+                "nausea",
+                "loss_of_appetite",
+                "pain_behind_the_eyes",
+                "back_pain",
+                "malaise",
+                "muscle_pain"
+            ]
+        }
+    ]
+}
